@@ -1,0 +1,8 @@
+out
+.clangd
+.idea
+.vscode
+.clang-format
+build
+build.sh
+justfile
