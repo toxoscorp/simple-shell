@@ -1,2 +1,2 @@
 # simple-shell
-Simple Shell Application to run installed app
+Simple Shell Application to run program in linux "default path"
